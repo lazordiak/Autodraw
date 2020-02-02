@@ -1,0 +1,17 @@
+{
+  "name": "autodraw",
+  "version": "1.0.0",
+  "description": "draw with your voice!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ml"
+  ],
+  "author": "schuylerdevos@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+} ra re h
